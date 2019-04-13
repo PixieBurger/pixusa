@@ -1,21 +1,21 @@
-title: Post-doc Gone Cycling Amateur
-email: your-email@domain.com
+title: Post-doc Gone Cycling
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.inventitech.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Moritz Beller # add your name
 author-pic: mbeller4.jpg
 about-author: >
-  My name is Moritz Beller. I (temporarily) terminated my post-doc at
-  TU Delft to become a full time cycling ~pro~ amateur around the Netherlands
-  (and outside, if all goes well!). With this blog, I want to share what I
-  experience in my time on the road and off the road. 
+  My name is Moritz Beller. I (temporarily) terminated my post-doc position at
+  TU Delft to become a full time cycling ~~pro~~ amateur around the Netherlands
+  and beyond. In this blog, I want to share what I experience in my time on and
+  off the road.
 
 # Contact links
 website: www.inventitech.com # Add your website, do not add http://
