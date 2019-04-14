@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://blog.inventitech.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
@@ -13,9 +13,9 @@ author: Moritz Beller # add your name
 author-pic: mbeller4.jpg
 about-author: >
   My name is Moritz Beller. I (temporarily) terminated my post-doc position at
-  TU Delft to become a full time cycling ~~pro~~ amateur around the Netherlands
-  and beyond. In this blog, I want to share what I experience in my time on and
-  off the road.
+  TU Delft to become a full time cycling <strike>pro</strike>
+  amateur around the Netherlands and beyond. In this blog, I want to share what I
+  experience during my time on and off the road.
 
 # Contact links
 website: www.inventitech.com # Add your website, do not add http://
