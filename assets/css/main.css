@@ -6,7 +6,7 @@
 }
 
 .highlighter-rouge {
-  color: #87314e;
+  color: #08c;
   font-weight: 400;
   border: 1px solid #607D8B;
   -webkit-border-radius: 3px;
@@ -799,7 +799,7 @@ img {
 }
 
 a {
-  color: #87314e;
+  color: #08c;
 }
 
 blockquote {
@@ -862,7 +862,7 @@ pre code {
 }
 
 .wrapper {
-  width: 960px;
+  width: 780px;
   max-width: 90%;
   margin: 0 auto;
   position: relative;
@@ -960,7 +960,7 @@ pre code {
 
 .main-nav ul li a:hover {
   opacity: .8;
-  color: #87314e;
+  color: #08c;
 }
 
 .menu-icon-container {
@@ -1048,7 +1048,7 @@ pre code {
 }
 
 .results-search li a:hover {
-  color: #87314e;
+  color: #08c;
   opacity: .8;
 }
 
@@ -1164,7 +1164,7 @@ pre code {
 
 .pagination .previous:hover, .pagination .next:hover {
   opacity: .8;
-  color: #87314e;
+  color: #08c;
 }
 
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
@@ -1198,7 +1198,8 @@ pre code {
   margin-top: -80px;
   margin-bottom: 100px;
   background-color: #fff;
-  padding: 20px;
+  font-size:16px;
+  padding: 50px;
   -webkit-border-top-left-radius: 20px;
           border-top-left-radius: 20px;
   -webkit-border-top-right-radius: 20px;
@@ -1248,7 +1249,7 @@ pre code {
 
 .page-footer .page-tag a {
   text-decoration: none;
-  color: #87314e;
+  color: #08c;
 }
 
 .page-footer .page-tag a:hover {
@@ -1388,7 +1389,7 @@ pre code {
 }
 
 .newsletter .newsletter-box .subscribe-btn:hover {
-  background-color: #87314e;
+  background-color: #08c;
 }
 
 /* = = = = = = = = = = Author Box Styles = = = = = = = = = = */
@@ -1524,7 +1525,7 @@ pre code {
 }
 
 .about-body .contact-list li a:hover {
-  color: #87314e;
+  color: #08c;
   -webkit-transform: scale(1.3);
       -ms-transform: scale(1.3);
           transform: scale(1.3);
@@ -1562,7 +1563,7 @@ pre code {
 
 .blog-tags .tag-list span a {
   display: inline-block;
-  color: #87314e;
+  color: #08c;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 12px;
@@ -1728,7 +1729,7 @@ pre code {
     transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
   }
   .about-body .contact-list li a:hover {
-    color: #87314e;
+    color: #08c;
     -webkit-transform: scale(1.3);
         -ms-transform: scale(1.3);
             transform: scale(1.3);
