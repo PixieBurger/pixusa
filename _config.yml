@@ -32,7 +32,7 @@ discus_identifier: gone-cycling # Add your discus identifier
 analytics: UA-49032236-5 # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
 
 # Build settings
