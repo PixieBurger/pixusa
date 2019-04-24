@@ -19,7 +19,7 @@ When you live in an apartment complex without a garden or terras,
 cleaning your bike is actually not so easy: Where do you wash the
 bike? Where do you get water from? I mean, I am not really willing to
 let my bike be in the [bike
-stand](https://www.amazon.de/Cyclon-20061-0-Reinigungsmittel-Bionet/dp/B005RR0E5W/ref=sr_1_4?__mk_nl_NL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=degreaser&qid=1556020640&s=gateway&sr=8-4)
+stand](https://www.amazon.de/EUFAB-16414-Fahrradst%C3%A4nder-Profi-Stativ/dp/B005CUAFZI/ref=sr_1_1?__mk_nl_NL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=bike+repair+stand&qid=1556099704&s=gateway&sr=8-1)
 while I get something I missed from upstairs, only to return five
 minutes later to no-more-bike. Let me know how you do it if you are in
 a similar situation!
@@ -44,10 +44,11 @@ the Internet. So that sucked a bit. But then I thought that with chain
 cleaning, you probably get 80% of the results with 20% of the effort
 and just used my [chain cleaning
 tool](https://www.amazon.de/JTENG-Kettenreinigungsger%C3%A4t-Kettenreiniger-Pinsel-Werkzeug-Latexhandschuhe/dp/B07DLR9RDB/ref=cts_sp_4_vtp). A
-lot of dirt came off, as you could see by pitch-black degreasing
-fluid. If you do this efficiently, it is a ten-minute thing and can
-really be done independently of the rest of the bike clean. And
-actually cleaning the chain is where it sortof matters most.
+lot of dirt came off, as you could see by pitch-black [degreasing
+fluid](https://www.amazon.de/Cyclon-20061-0-Reinigungsmittel-Bionet/dp/B005RR0E5W/ref=sr_1_4?__mk_nl_NL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=degreaser&qid=1556020640&s=gateway&sr=8-4). If
+you do this efficiently, it is a ten-minute thing and can really be
+done independently of the rest of the bike clean. And actually
+cleaning the chain is where it sortof matters most.
 
 The bike is now ready for whatever there is to come -- stay tuned for
 the planned Easter trip!
