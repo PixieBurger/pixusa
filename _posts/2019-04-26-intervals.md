@@ -37,12 +37,12 @@ done something that day and that my legs were pretty empty. Good to
 know that even with only an hour available, one can definitely set a
 training impulse.
 
-*Interval Training*
+**Interval Training**
 <iframe height='405' width='590' frameborder='0'
 allowtransparency='true' scrolling='no'
 src='https://www.strava.com/activities/2320023559/embed/93f5ef5b233147fb77d54e0e4b655120bd468153'></iframe>
 
-*Running*
+**Running**
 <iframe height='405' width='590' frameborder='0'
 allowtransparency='true' scrolling='no'
 src='https://www.strava.com/activities/2324443562/embed/f41eb26d2a9d1c2c543ae360362bee0cd91c524e'></iframe>
