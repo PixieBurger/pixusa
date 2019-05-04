@@ -37,6 +37,12 @@ done something that day and that my legs were pretty empty. Good to
 know that even with only an hour available, one can definitely set a
 training impulse.
 
+
+Tot zo,
+
+![Moritz]({{site.baseurl}}/assets/img/moritz.png)
+
+
 **Interval Training**
 <iframe height='405' width='590' frameborder='0'
 allowtransparency='true' scrolling='no'
