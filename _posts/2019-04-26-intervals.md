@@ -3,7 +3,7 @@ layout: post
 title:  'Day 16: Interval Training'
 date:   2019-04-26
 img:  funky_weather.jpg # Add image post (optional)
-tags: [Blog, Road Bike]
+tags: [Blog, Road Bike, Running]
 author: Moritz Beller # Add name author (optional)
 ---
 
