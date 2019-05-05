@@ -10,7 +10,8 @@ author: Moritz Beller # Add name author (optional)
 **This track has it all: Wide streets, wide canals, and wide-body
   jets: Can it get better? Yes, with sun shine, please! Today I did
   the Ringvaart Haarlemmer Meer, another one off the [bucket
-  list](/ing/).**
+  list](/ing/) and recommended [by DC
+  Rainmaker](https://www.dcrainmaker.com/2019/03/5-random-things-i-did-this-weekend-89.html).**
 
 The name Haarlemeer refers to a what used to be a large lake ("meer")
 between the cities of Leiden in the south and Amsterdam in the
@@ -44,7 +45,9 @@ The tour I rode today, which despite the weather was very popular with
 race bikers, takes you alongside the Halemeerpolder, in the channel
 created around it, the ringvaart. The beauty of this tour is that one
 can start (and end it) in a number of different cities in the
-Randstand: Amsterdam, Leiden, and even Den Haag.
+Randstand: Amsterdam, Leiden, and even Den Haag. On the way, I had
+pretty strong headwinds (4-5 on the scale), but at least on the way
+back, I could then smash it.
 
 > I even entered the secured part of Schiphol today. Only for a few
   meters, but still, the gate went up.
