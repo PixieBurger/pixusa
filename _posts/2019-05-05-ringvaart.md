@@ -49,8 +49,8 @@ Randstand: Amsterdam, Leiden, and even Den Haag. On the way, I had
 pretty strong headwinds (4-5 on the scale), but at least on the way
 back, I could then smash it.
 
-> I even entered the secured part of Schiphol today. Only for a few
-  meters, but still, the gate went up.
+> I even entered the secured part of Schiphol today (more or less by
+  accident). Only for a few meters, but still, the gate went up.
 
 ![Weather was typical April's weather (in
  May?!)]({{site.baseurl}}/assets/img/weather.jpg)
