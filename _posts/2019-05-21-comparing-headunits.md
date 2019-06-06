@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Comparing the Elemnt Bolt to the Amazfit sports watch and a mobile'
-date:   2019-06-04
+date:   2019-05-21
 img:   z_roundabout_title.jpg # Add image post (optional)
 tags: [Blog, Engineering]
 author: Moritz Beller # Add name author (optional)
@@ -42,7 +42,7 @@ style="color:green">**Wahoo Elemnt Bolt**</span>, and <span
 style="color:red">**my mobile phone, a cheapish Xiaomi
 A1**</span>. What's amazing is that when using GPS on the phone, this
 rapidly drains the battery. The tailored devices last much longer with
-GPS enabled. My Amazfit Watch has at least 20 hour of continuous GPS
+GPS enabled. My Amazfit Watch has at least 20 hours of continuous GPS
 coverage, the Bolt 13 hours (I wonder whether something's wrong with
 mine, as the [official
 figure](https://eu.wahoofitness.com/devices/bike-computers/gps-elemnt-bolt?rmsrc=1&gclid=Cj0KCQjwitPnBRCQARIsAA5n84mhRR7GV7efAaEyTasCsak1ugowYmVdoF6QZxjE7zY184vWRxHrunEaAljoEALw_wcB)
@@ -64,7 +64,7 @@ become different:
 
 ![Ok]({{site.baseurl}}/assets/img/z_everyone_doing_ok.jpg)
 
-We can see all devices doing a good job. The Amazift Stratos seems to
+We can see all the devices doing a good job. The Amazfit Stratos seems to
 be cutting the route a bit short, which is in line with its shortest
 track. This might be caused by a lower sampling rate, i.e. saving
 fewer points per given time interval. The file size confirms this: The
@@ -74,10 +74,10 @@ process less energy-intense.
 ![Bad mobile]({{site.baseurl}}/assets/img/z_mobile_doing_bad.jpg)
 
 At certain points, the mobile seemed to be doing particularly erratic
-and bad, even though I was travelling in a straight line.
+and bad, even though I was traveling in a straight line.
 
 Looking at the speeds, the devices reported different average speeds
-of 23.9km/h, 24.8km/h (smoothend out by my speed/cadence sensor which
+of 23.9km/h, 24.8km/h (smoothened out by my speed/cadence sensor which
 uses the circumference of the wheel), and 24.5km/h respectively on
 Strava (!). It makes sense that the Bolt is fastest as I deactivated
 it for the slow ferry ride.
@@ -86,12 +86,13 @@ it for the slow ferry ride.
 
 I thought I'd show this picture because it summarizes my findings quite nicely:
 
-1. All track are to a certain degree usable.
-1.On the round about, we see a nice track for the mobile, though in
-absolute terms, it seems to be a bit missaligned with the map,
-1. The mobile is occassionally a bit erratic.
+1. All tracks are to a certain degree usable.
+1. On the roundabout, we see a nice track for the mobile, though in
+absolute terms, it seems to be a bit misaligned with the map,
+1. The mobile is occasionally a bit erratic.
 1. The Amazfit is cutting the corners a bit short and smoothens out the ride.
-1. Arguably, the Bolt probably has the best track.
+1. Arguably, the Bolt has the best track.
+
 
 I was pretty surprised by the relatively bad performance of the
 phone. The phone was not bad for the entirety of the route though. I
