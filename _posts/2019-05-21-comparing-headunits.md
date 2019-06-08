@@ -14,50 +14,52 @@ author: Moritz Beller # Add name author (optional)
   bought](/correct/) Wahoo Elemnt Bolt. In this post, I finally get
   around to comparing them.**
 
-To compare them, using Strava does not make sense: Strava takes your
-original track and maps them to known roads. Instead, for this
-article, I exported the raw GPS data, uploaded them to a GPS
-comparison site and imported them in Google Earth.
+To do so, using Strava does not make sense: Strava takes your original
+tracks and maps them to known roads. Instead, for this article, I
+exported the raw GPS data, uploaded them to a GPS comparison site and
+imported them in Google Earth.
 
 > I followed [DC Rainmaker's
-  advice](https://www.dcrainmaker.com/analyzer) (who actually was in
-  my old home Delft on [the
+  advice](https://www.dcrainmaker.com/analyzer) (trivia #1: he
+  actually was in my old home Delft on [the
   weekend](https://www.dcrainmaker.com/2019/06/5-random-things-did-this-weekend-94.html))
   to use Satelite and not Map view for comparison of GPS tracks.
 
 Actually, back off a bit: I found [this interesting
 study,](https://www.tandfonline.com/doi/abs/10.3846/20296991.2017.1330767)
-in which researchers tried to find out this exact question in 2017 --
-it turns out that the offset in the city of Montreal (which ironically
-I came back home from yesterday) is anywhere from 0.1 to 2.7 meters.
+in which researchers tried to find out this exact question -- how
+accurate is Google Earth? It turns out that the offset in the city of
+Montreal (trivia 2: which ironically I came back home from yesterday)
+is anywhere from 0.1 to 2.7 meters.
 
 > I am not a GPS specialist and I do not know how accurate the
-  calibration of Google Earth images is. We should use Google Earth's
-  images as a reference for the shape of the track, and only in case
-  of stark deviations as an absolute reference.
+  calibration of Google Earth images is now in the Netherlands. We
+  should use Google Earth's images as a reference for the shape of the
+  track, and only in case of stark deviations as an absolute
+  reference.
 
 I compared two bespoke devices, my <span style="color:blue">**GPS
 sports tracker, the Amazfit Stratos watch,**</span> and the <span
-style="color:green">**Wahoo Elemnt Bolt**</span>, and <span
+style="color:green">**Wahoo Elemnt Bolt**</span>, to <span
 style="color:red">**my mobile phone, a cheapish Xiaomi
 A1**</span>. What's amazing is that when using GPS on the phone, this
-rapidly drains the battery. The tailored devices last much longer with
-GPS enabled. My Amazfit Watch has at least 20 hours of continuous GPS
-coverage, the Bolt 13 hours (I wonder whether something's wrong with
-mine, as the [official
+rapidly drains the battery (9 hours of battery life or so). The
+tailored devices last much longer with GPS enabled. My Amazfit Watch
+has at least 18 hours of continuous GPS coverage, the Bolt 13 hours (I
+wonder whether something's wrong with mine, as the [official
 figure](https://eu.wahoofitness.com/devices/bike-computers/gps-elemnt-bolt?rmsrc=1&gclid=Cj0KCQjwitPnBRCQARIsAA5n84mhRR7GV7efAaEyTasCsak1ugowYmVdoF6QZxjE7zY184vWRxHrunEaAljoEALw_wcB)
-is much higher at 15 hours), my mobile running Strava maybe 8 hours.
+is much higher at 15 hours).
 
 > Which device would do better? The specific GPS-trackers, or the
   mobile which has the benefit of triangulation?
 
 Overall, the track lengths are similar enough -- note that on the
 Wahoo, I forgot to track the slow ferry and about 250 hundred meters
-(measured via Google Earth) after the start. So the total ride lengths
-are 56.92km (Wahoo Bike computer), 56.12km (Amazift Watch), and
-57.83km (Xiaomi mobile). That sounds close enough,
-but when you start to look into the actual track, things start to
-become different:
+after the start (as measured post-factum via Google Earth). So the
+total ride lengths are 56.92km (Wahoo Bike computer), 56.12km (Amazift
+Watch), and 57.83km (Xiaomi mobile). That sounds close enough, but
+when you start to look into the actual track, things start to become
+different:
 
 > To my surprise, the Elemnt Bolt and the energy-saving Amazfit
   Stratos were relatively similar. The mobile was significantly worse.
