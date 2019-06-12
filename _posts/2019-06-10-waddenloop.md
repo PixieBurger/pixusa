@@ -24,8 +24,8 @@ riding three meters next to the sea yesterday, now that sea had
 completely receeded and was ready for us to walk on. Timea's stance on
 the Waddenzee loop was something along these lines:
 
-> In Hungary, we have mud everywhere and people usually try to avoid
-  it. Here people get all excited about paying for it!
+> In Hungary, we also have mud and people usually try to avoid
+  it. Here, people get all excited about paying for it!
 
 Well, fair enough ... here is how much fun I had:
 
@@ -36,14 +36,21 @@ picture-in-picture" allowfullscreen></iframe>
 
 ![Waddenloop is fun!]({{site.baseurl}}/assets/img/waddenloop.jpg)
 
+Back on the bike, the national park "Drentsche Aa" was another
+highlight: There is an asphalt cycle path that leads right through the
+heart of this pretty spectacular, yet small, nature reserve. I also
+appreciated the hand-operated ferry that brings you over the river
+before it.
+
 I guess the mud walk (or the hour-long discussions leading up to it
 ...) must have been very taxing on us because the bikes did not really
-roll and I hardly remember when cycling 73km felt that hard.
+roll and I hardly remember when cycling 73km felt that tough. I was
+super hungry at the end of it (and actually for some time in the days
+to come).
 
-Going through the national park "Drentsche Aa" was another highlight:
-There is an asphalt cycle path that leads right through the heart of
-this pretty spectacular, yet small, nature reserve. I also appreciate
-the hand-operated ferry that brings you over the river before it.
+On the train to Den Haag, we went through quite some rain, of which we
+had none during this nice 2-day outing. Again, perfect planning and a
+bit of luck.
 
 Tot zo,
 
