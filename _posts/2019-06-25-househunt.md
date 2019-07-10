@@ -2,7 +2,7 @@
 layout: post
 title:  'Day 1 – First impressions'
 date:   2019-06-25
-img: 2.0.jpg # Add image post (optional)
+img: 2.0.JPG # Add image post (optional)
 tags: [Blog, Travel, Housing]
 author: Timea Szili # Add name author (optional)
 ---
