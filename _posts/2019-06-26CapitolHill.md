@@ -19,4 +19,3 @@ My biggest challenge was how to find my walk way through the autostrada which ha
 ![city buzz]({{site.baseurl}}/assets/img/1.6.jpg
 
 
-https://www.instagram.com/szilitimea/
