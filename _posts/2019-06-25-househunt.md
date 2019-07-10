@@ -23,8 +23,6 @@ I could find another building called The Olivian where I booked a tour for Monda
 
 On my way to the Downtown I was very disturbed by the continuous noise of traffic randomly cut by airplane passing by, firefighter car or huge trucks. I have some concerns of the enjoyability living in the middle of this mess. Unless the apartment is very very well isolated.
 
-![city buzz]({{site.baseurl}}/assets/img/1.4.jpg)
-
 The city if full of construction work. High rise buildings are surrounded with construction workers, many sidewalks are closed under these buildings. Even if you do not see construction work around anything can fall on you from these high rise buildings. 
 
 ![construction1]({{site.baseurl}}/assets/img/1.5a.JPG)
