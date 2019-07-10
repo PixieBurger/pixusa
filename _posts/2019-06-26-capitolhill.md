@@ -20,6 +20,6 @@ On my way I crossed by a huge Stabucks roastery. It was back in 1971 when Starbu
 ![StarbuKs]({{site.baseurl}}/assets/img/3Starbucs.JPG)
 
 
-![LakeUnion]({{site.baseurl}}/assets/img/lakeunion1.JPG)
+![LakeUnion]({{site.baseurl}}/assets/img/LakeUnion1.JPG)
 
 Timea
