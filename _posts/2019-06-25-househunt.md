@@ -24,12 +24,17 @@ On my way to the Downtown I was very disturbed by the continuous noise of traffi
 
 ![city buzz]({{site.baseurl}}/assets/img/1.4.jpg)
 
-The city if full of construction work. High rise buildings are surrounded with construction workers, many sidewalks are closed under these buildings. Even if you do not see construction work around anything can fall on you from these high rise buildings. This happened to me the very first day, luckily this little piece fall 30 cm from me while I was walking on the street. No surprise at all that a couple of months a lady has died as some metal peace was falling on her while she was walking on the street. Since then I am avoiding construction sides as much as I can.
+The city if full of construction work. High rise buildings are surrounded with construction workers, many sidewalks are closed under these buildings. Even if you do not see construction work around anything can fall on you from these high rise buildings. 
+
+![construction1]({{site.baseurl}}/assets/img/1.5a.jpg)
+
+This happened to me the very first day, luckily this little piece fall 30 cm from me while I was walking on the street. No surprise at all that a couple of months a lady has died as some metal peace was falling on her while she was walking on the street. Since then I am avoiding construction sides as much as I can.
 
 
 ![Falling stones]({{site.baseurl}}/assets/img/1.5.jpg)
 
 
 Secondary mission - if not more important than the primary - was to find something edible. I was kind of expecting that this will be a challenge in this country. Thus early morning I started to follow up on this. Moritz suggested to check out a supermarket chain called Trader Joe’s. By accident I entered to another supermarket Freeway - I was really disgusted what I saw. Huge refrigerators incredible amount of meat in a form of all processed food of course. 
-In the evening eventually  I have found the real organic supermarket chain. Great choices (I could even find the ayurvedic herbs I am using). Unfortunately smelling the fruits was still a sad experience. Probably I give up to eat nice fruit for this summer. (Thankfully my parents are working hard in Hungary to preserve (dry) the treasures of the summer for me.)
+In the evening eventually  I have found the real organic supermarket chain. Great choices (I could even find the ayurvedic herbs I am using). Unfortunately smelling the fruits was still a sad experience. Probably I give up to eat nice fruit for this summer. (Thankfully my parents are working hard in Hungary to preserve (dry) the treasures of the summer for me.) At this stage better not to post pictures on this.
 
+Timea
