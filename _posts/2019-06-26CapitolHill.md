@@ -13,8 +13,8 @@ There were some housing options available in the Capitol Hill area. On the map t
 
 My biggest challenge was how to find my walk way through the autostrada which has separated the two parts of the city.
 
-![city buzz]({{site.baseurl}}/assets/img/1.4.jpg)
+#![city buzz]({{site.baseurl}}/assets/img/1.4.jpg)
 
-![city buzz]({{site.baseurl}}/assets/img/1.6.jpg)
+#![city buzz]({{site.baseurl}}/assets/img/1.6.jpg)
 
 Timea
