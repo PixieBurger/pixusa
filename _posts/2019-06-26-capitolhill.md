@@ -2,7 +2,7 @@
 layout: post
 title:  'Day 2 – Exploring the hood'
 date:   2019-06-26
-img:  1.4.jpg # Add image post (optional)
+img:  lakeunion1.jpg # Add image post (optional)
 tags: [Blog, Travel, Housing, Walking]
 author: Timea Szili # Add name author (optional)
 ---
