@@ -7,15 +7,16 @@ tags: [Blog, Travel, Housing]
 author: Timea Szili # Add name author (optional)
 ---
 
-** My main mission for the first days was to find an apartment to stay.
-As on one of the requirements toward housing was that it should be within walking distance to Moritz’s office I decided to use the first days as some walking exercise. **
+
+**My main mission for the first days was to find an apartment to stay.
+As on one of the requirements toward housing was that it should be within walking distance to Moritz’s office I decided to use the first days as some walking exercise.**
 
 According to Srava I walked 45 km I guess it was around 20km.
 
 Before arriving to Seattle we were researching some high rise buildings in the city center our favorite being Stratus. Unfortunately they do not offer short term furnished rentals any more. 
 
 
-![High rise high life]({{site.baseurl}}/assets/img/1.3.jpg)
+![High rise high life]({{site.baseurl}}/assets/img/1.3.JPG)
 
 Apparently this is not the best time to find a good option for short term rentals as this is the time of the year when Microsoft hires of about 4000 interns for 3 months. 
 I could find another building called The Olivian where I booked a tour for Monday. This place is going to became our home for the next couple of months. 
@@ -26,7 +27,7 @@ On my way to the Downtown I was very disturbed by the continuous noise of traffi
 
 The city if full of construction work. High rise buildings are surrounded with construction workers, many sidewalks are closed under these buildings. Even if you do not see construction work around anything can fall on you from these high rise buildings. 
 
-![construction1]({{site.baseurl}}/assets/img/1.5a.jpg)
+![construction1]({{site.baseurl}}/assets/img/1.5a.JPG)
 
 This happened to me the very first day, luckily this little piece fall 30 cm from me while I was walking on the street. No surprise at all that a couple of months a lady has died as some metal peace was falling on her while she was walking on the street. Since then I am avoiding construction sides as much as I can.
 
