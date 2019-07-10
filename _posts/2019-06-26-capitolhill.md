@@ -15,10 +15,10 @@ My biggest challenge was how to find my walk way through the autostrada which ha
 
 ![city buzz]({{site.baseurl}}/assets/img/1.4.jpg)
 
-![city buzz]({{site.baseurl}}/assets/img/1.6.jpg)
+![city buzz]({{site.baseurl}}/assets/img/1.6.JPG)
 
 On my way I crossed by a huge Stabucks roastery. It was back in 1971 when Starbucks has opened its first coffee shop. The shop was located at the Pike Place Market. The day before I passed by that shop too, however not too remarkable I recall no other other than a huge row of aisan turists. The Roastery itself is huge spacious. Trying coffee there is still on my list. 
 
-![Starbucs]({{site.baseurl}}/assets/img/Starbucs3.JPG)
+![StarbuKs]({{site.baseurl}}/assets/img/3Starbucs.JPG)
 
 Timea
