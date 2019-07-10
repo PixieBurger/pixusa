@@ -1,26 +1,23 @@
-title: Post-doc Gone Cycling
+title: Pixusa
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gone-cycling.inventitech.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pixusa" # the subpath of your site, e.g. /blog
+url: "http://pixusa.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Moritz Beller # add your name
-author-pic: mbeller4.jpg
+author: Timea Szili # add your name
+author-pic: szt.jpg
 about-author: >
-  My name is Moritz Beller. I became a full time cycling <strike>pro</strike>
-  amateur around the Netherlands and beyond to fill a time gap between jobs after
-  temporarily leaving my post-doc at TU Delft. In this blog, I want to share what
-  I experience during my time on and off the road.
-
+  My name is Timea.
+  
 # Contact links
-website: www.inventitech.com # Add your website, do not add http://
-github: inventitech # Add your Github handle
-twitter: '@inventitech' # Add your Twitter handle
+website: www.pixusa.eu # Add your website, do not add http://
+github: PixieBurger # Add your Github handle
+twitter: '@timeaszili' # Add your Twitter handle
 
 # Newsletter
 #mailchimp: # Add your MailChimp form identifier.
