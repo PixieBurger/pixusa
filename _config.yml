@@ -23,7 +23,7 @@ twitter: '@timeaszili' # Add your Twitter handle
 #mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: gone-cycling # Add your discus identifier
+#discus_identifier: gone-cycling # Add your discus identifier
 
 # Tracker
 analytics: UA-49032236-5 # Google Analytics
