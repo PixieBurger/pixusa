@@ -16,7 +16,7 @@ According to Srava I walked 45 km I guess it was around 20km.
 Before arriving to Seattle we were researching some high rise buildings in the city center our favorite being Stratus. Unfortunately they do not offer short term furnished rentals any more. 
 
 
-![High rise high life]({{site.baseurl}}/assets/img/1.3.JPG)
+![High rise high life]({{site.baseurl}}/assets/img/1.3.jpg)
 
 Apparently this is not the best time to find a good option for short term rentals as this is the time of the year when Microsoft hires of about 4000 interns for 3 months. 
 I could find another building called The Olivian where I booked a tour for Monday. This place is going to became our home for the next couple of months. 
