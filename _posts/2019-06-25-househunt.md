@@ -11,7 +11,7 @@ author: Timea Szili # Add name author (optional)
 **My main mission for the first days was to find an apartment to stay.
 As on one of the requirements toward housing was that it should be within walking distance to Moritz’s office I decided to use the first days as some walking exercise.**
 
-According to Srava I walked 45 km I guess it was around 20km.
+According to Strava I walked 45 km I guess it was around 20km.
 
 Before arriving to Seattle we were researching some high rise buildings in the city center our favorite being Stratus. Unfortunately they do not offer short term furnished rentals any more. 
 
