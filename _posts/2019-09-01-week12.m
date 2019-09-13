@@ -2,9 +2,9 @@
 
 layout: post
 
-title:  'Week #10 Homeless'
+title:  'Week #12 Homeless'
 
-date:   2019-09-01
+date:   2019-09-15
 
 img:  9_m.jpg # Add image post (optional)
 
